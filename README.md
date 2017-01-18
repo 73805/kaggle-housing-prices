@@ -1,1 +1,2 @@
-
+## Code for [Kaggle's Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition.
+I dove into this feature-rich competition because it offered an ideal playground for feature manipulation and engineering. The code in this repository developed over a couple days during Winter break as I experimented with feature selection strategies, binning, scaling, and one-hot encoding. On the advice of the competition, I decided to use the XGBoost regressor and tried ensembling more basic regression techniques as well.
